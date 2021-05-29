@@ -13,6 +13,19 @@
 
 ### Last posts (spanish)
 
+<a href='https://www.apascualco.com/algoritmos/clarke-y-wright-aproximacion-greedy-para-resolver-vrp/' target='_blank'>
+  <img width='30%' src='https://i0.wp.com/www.apascualco.com/wp-content/uploads/2021/05/Captura-de-pantalla-2021-05-29-a-las-12.25.59.png?zoom=2&resize=363%2C188&ssl=1' alt='Clarke y Wright aproximación “greedy” para resolver VRP' />
+  <p><em>Clarke y Wright aproximación “greedy” para resolver VRP</em></p>
+</a>
+<a href='https://www.apascualco.com/go/consumir-mensaje-en-rabbitmq-con-golang-parte-2/' target='_blank'>
+  <img width='30%' src='https://i2.wp.com/www.apascualco.com/wp-content/uploads/2021/05/Captura-de-pantalla-2021-05-27-a-las-22.03.20.png?zoom=2&resize=363%2C188&ssl=1' alt='Consumir mensaje en RabbitMQ con Golang (parte 2)' />
+  <p><em>Consumir mensaje en RabbitMQ con Golang (parte 2)</em></p>
+</a>
+<a href='https://www.apascualco.com/algoritmos/redes-neuronales-el-perceptron/' target='_blank'>
+  <img width='30%' src='https://i1.wp.com/www.apascualco.com/wp-content/uploads/2021/05/redes-neuronales-el-perceptron.jpg?zoom=2&resize=363%2C188&ssl=1' alt='Redes neuronales, el perceptrón' />
+  <p><em>Redes neuronales, el perceptrón</em></p>
+</a>
+
 ## 👨🏽‍💻 Technologies
 
 ## &#x1f4c8; Stats
