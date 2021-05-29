@@ -5,7 +5,39 @@
 [![Linkedin: apascualco](https://img.shields.io/badge/-apascualco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apascualco/)](https://www.linkedin.com/in/apascualco/)
 [![Website apascualco.com](https://img.shields.io/website.svg?down_color=red&down_message=down&apascualco_color=green&up_message=apascualco.com&url=https://apascualco.com)](https://apascualco.com)
 
+## 🔥 About my role
 ```go
+package main
+
+import "fmt"
+
+type Creature struct {
+	Name      string
+	Role      string
+	IDE       string
+	Languages []string
+	More      string
+}
+
+func main() {
+	c := Creature{
+		Name:      "Alberto Pascual",
+		Role:      "Backend",
+		IDE:       "neovim (VIM)",
+		Languages: make([]string, 0),
+		More:      "https://www.linkedin.com/in/apascualco/",
+	}
+
+	c.Languages = append(c.Languages, "Java")
+	c.Languages = append(c.Languages, "Python")
+	c.Languages = append(c.Languages, "Go")
+	c.Languages = append(c.Languages, "TypeScript")
+	c.Languages = append(c.Languages, "Bash script")
+	c.Languages = append(c.Languages, "Kotlin")
+
+	fmt.Println("Follow the creature %+v\n", c)
+}
+
 ```
 
 ## 📝 Blog
