@@ -1,5 +1,5 @@
 <h2> Hi everyone!, I'm Alberto Pascual!</h2>
-<p><em> Backend software enginieer at <a href="https://www.dexma.com">DEXMA</a></em></p>
+<p><em> Backend software enginieer at <a href="https://github.com/enchainte">Enchainté</a></em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/apascualco?label=Follow)](https://twitter.com/intent/follow?screen_name=apascualco)
 [![Linkedin: apascualco](https://img.shields.io/badge/-apascualco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apascualco/)](https://www.linkedin.com/in/apascualco/)
@@ -28,9 +28,10 @@ func main() {
 		More:      "https://www.linkedin.com/in/apascualco/",
 	}
 
-	c.Languages = append(c.Languages, "Java")
-	c.Languages = append(c.Languages, "Python")
 	c.Languages = append(c.Languages, "Go")
+	c.Languages = append(c.Languages, "Python")
+	c.Languages = append(c.Languages, "Java")
+	
 	c.Languages = append(c.Languages, "TypeScript")
 	c.Languages = append(c.Languages, "Bash script")
 	c.Languages = append(c.Languages, "Kotlin")
@@ -44,15 +45,14 @@ func main() {
 - Personal Blog: https://www.apascualco.com
 
 ### Last posts (spanish)
-
+<a href='https://www.apascualco.com/algoritmos/que-es-un-hash-y-un-hash-table/' target='_blank'>
+  <img width='30%' src='https://i2.wp.com/www.apascualco.com/wp-content/uploads/2021/08/IMG_D87194BA20AF-1.jpeg?zoom=2&resize=363%2C188&ssl=1' alt='Que es un hash y un hash table ?' />
+</a>
 <a href='https://www.apascualco.com/algoritmos/clarke-y-wright-aproximacion-greedy-para-resolver-vrp/' target='_blank'>
   <img width='30%' src='https://i0.wp.com/www.apascualco.com/wp-content/uploads/2021/05/Captura-de-pantalla-2021-05-29-a-las-12.25.59.png?zoom=2&resize=363%2C188&ssl=1' alt='Clarke y Wright aproximación “greedy” para resolver VRP' />
 </a>
 <a href='https://www.apascualco.com/go/consumir-mensaje-en-rabbitmq-con-golang-parte-2/' target='_blank'>
   <img width='30%' src='https://i2.wp.com/www.apascualco.com/wp-content/uploads/2021/05/Captura-de-pantalla-2021-05-27-a-las-22.03.20.png?zoom=2&resize=363%2C188&ssl=1' alt='Consumir mensaje en RabbitMQ con Golang (parte 2)' />
-</a>
-<a href='https://www.apascualco.com/algoritmos/redes-neuronales-el-perceptron/' target='_blank'>
-  <img width='30%' src='https://i1.wp.com/www.apascualco.com/wp-content/uploads/2021/05/redes-neuronales-el-perceptron.jpg?zoom=2&resize=363%2C188&ssl=1' alt='Redes neuronales, el perceptrón' />
 </a>
 
 ## 👨🏽‍💻 Tools, Languages & Technologies
@@ -60,12 +60,13 @@ func main() {
 ![](https://img.shields.io/badge/OS-macOs-blue?logo=Apple&logoColor=white)
 ![](https://img.shields.io/badge/IDE-Neovim-blue?logo=Neovim&logoColor=white)
 
-![](https://img.shields.io/badge/Code-Java-blue?logo=Java&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-blue?logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Code-Go-blue?logo=Go&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-blue?logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-blue?logo=Java&logoColor=white)
 
 ![](https://img.shields.io/badge/CLOUD-AWS-blue?logo=Amazon%20AWS&logoColor=white)
 ![](https://img.shields.io/badge/CLOUD-K8s-blue?logo=Kubernetes&logoColor=white)
+![](https://img.shields.io/badge/CLOUD-azure-blue?logo=microsoft%20azure&logoColor=white)
 
 ![](https://img.shields.io/badge/DB-MySQL-blue?logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/DB-PostgreSQL-blue?logo=PostgreSQL&logoColor=white)
