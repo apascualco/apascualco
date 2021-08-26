@@ -45,14 +45,14 @@ func main() {
 - Personal Blog: https://www.apascualco.com
 
 ### Last posts (spanish)
+<a href='https://www.apascualco.com/go/programacion-funcional-con-golan-option-pattern/' target='_blank'>
+  <img width='30%' src='https://i2.wp.com/www.apascualco.com/wp-content/uploads/2021/08/Screenshot-2021-08-26-at-17.12.59.png?w=461&ssl=1' alt='Programación funcional con Golan (Option pattern)' />
+</a>
 <a href='https://www.apascualco.com/algoritmos/que-es-un-hash-y-un-hash-table/' target='_blank'>
   <img width='30%' src='https://i2.wp.com/www.apascualco.com/wp-content/uploads/2021/08/IMG_D87194BA20AF-1.jpeg?zoom=2&resize=363%2C188&ssl=1' alt='Que es un hash y un hash table ?' />
 </a>
 <a href='https://www.apascualco.com/algoritmos/clarke-y-wright-aproximacion-greedy-para-resolver-vrp/' target='_blank'>
   <img width='30%' src='https://i0.wp.com/www.apascualco.com/wp-content/uploads/2021/05/Captura-de-pantalla-2021-05-29-a-las-12.25.59.png?zoom=2&resize=363%2C188&ssl=1' alt='Clarke y Wright aproximación “greedy” para resolver VRP' />
-</a>
-<a href='https://www.apascualco.com/go/consumir-mensaje-en-rabbitmq-con-golang-parte-2/' target='_blank'>
-  <img width='30%' src='https://i2.wp.com/www.apascualco.com/wp-content/uploads/2021/05/Captura-de-pantalla-2021-05-27-a-las-22.03.20.png?zoom=2&resize=363%2C188&ssl=1' alt='Consumir mensaje en RabbitMQ con Golang (parte 2)' />
 </a>
 
 ## 👨🏽‍💻 Tools, Languages & Technologies
